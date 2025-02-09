@@ -10,7 +10,7 @@ I'm a passionate developer who loves building impactful solutions. Currently exp
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagarshirwalkar&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar-shirwalkar&show_icons=true&theme=radical)
 
 ## 🌱 I'm currently learning
 - Advanced Software Architecture
