@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Sagar Shirwalkar
+# Hi, I'm Sagar!
 
-## 💫 About Me
-Experienced in leading software teams, project management and client
-liaison, as well as end-to-end deployment.
+## 👨 About Me
+Experienced in leading software teams, project management and client liaison, as well as end-to-end deployment.
 
 Currently exploring and creating amazing things with code.
 
@@ -15,15 +14,12 @@ Currently exploring and creating amazing things with code.
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar-shirwalkar&show_icons=true&theme=radical)
 
-## 🌱 I'm currently learning
+## 📚 I'm currently learning
 - Advanced Software Architecture
 - Cloud Technologies
-
-## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/sagar-shirwalkar)
 
 ---
 ⭐️ From [sagar-shirwalkar](https://github.com/sagar-shirwalkar)
