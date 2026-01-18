@@ -1,11 +1,10 @@
 # Hi, I'm Sagar!
 
-## 👨 About Me
+## About Me
 Experienced in leading software teams, project management and client liaison, as well as end-to-end deployment.
-
 Currently exploring and creating amazing things with code.
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -14,12 +13,12 @@ Currently exploring and creating amazing things with code.
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
 
-## 📈 GitHub Stats
+## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar-shirwalkar&show_icons=true&theme=radical)
 
-## 📚 I'm currently learning
-- Advanced Software Architecture
+## I'm currently learning
+- PySpark and Go
 - Cloud Technologies
 
 ---
-⭐️ From [sagar-shirwalkar](https://github.com/sagar-shirwalkar)
+From [@sagar-shirwalkar](https://github.com/sagar-shirwalkar)
