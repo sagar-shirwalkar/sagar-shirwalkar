@@ -1,7 +1,6 @@
 #
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sagar-shirwalkar&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/sagar-shirwalkar)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-shirwalkar&theme=blue-green)
 
 ## About Me
 
