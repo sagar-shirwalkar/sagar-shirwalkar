@@ -1,7 +1,7 @@
-#
+# 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sagar-shirwalkar&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/sagar-shirwalkar)
+![Hacker](https://coolreadme.xyz/api/hacker?user=sagar-shirwalkar&status=SHIPPING%20CODE&accent=%23FBBF24)
 
 ## About Me
 
-Backend developer by day, code aventurer by night! Currently exploring and working on things I love.
+Backend dev by day, coding aventurer by night! Currently exploring and working on things I love.
